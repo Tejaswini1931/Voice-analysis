@@ -75,10 +75,3 @@ A sample of the voice dataset is available in [`/data/sample_mdvp_data.csv`](dat
 This project is licensed under the **MIT License**.  
 Feel free to use, adapt, and reference with proper attribution.
 
----
-
-## 📫 Contact
-
-Mirna Danisa Tandjung  
-Email: [mirnadanisat@gmail.com]  
-LinkedIn: [(https://www.linkedin.com/in/mirnadanisatandjung/)]
